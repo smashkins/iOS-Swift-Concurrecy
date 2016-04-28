@@ -1,2 +1,9 @@
 # iOS-Swift-Concurrecy
-NSOperation and Concurrency in iOS with Swift
+
+Concurrency in iOS with Swift
+
+with following arguments:
+
+- NSOperation
+- NSOperationQueue
+
