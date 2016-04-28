@@ -1,4 +1,4 @@
-# iOS-Swift-Concurrecy
+# iOS Swift Concurrecy
 
 Concurrency in iOS with Swift
 
